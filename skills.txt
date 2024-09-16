@@ -1,0 +1,9 @@
+Git, GitHub
+JavaScript
+TypeScript
+Селекторы
+Тестирование UI с Selenium
+Тестирование API
+Cucumber
+Playwright
+CI/CD
